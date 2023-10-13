@@ -1,4 +1,4 @@
-![banner-profile](https://github.com/MohamedElfarfachi/MohamedElFarfachi/assets/144284875/d1159f6a-3a18-45eb-bc13-01f477975420)
+![Black and  White Gradient Personal LinkedIn Banner (3)](https://github.com/MohamedElfarfachi/MohamedElFarfachi/assets/144284875/c6cf5000-b3e7-453c-8d1b-e51bf2e2cea1)
 <h1 align="center">Hi 👋, I'm Mohamed EL Farfachi</h1>
 <p>Hello there! I'm Mohamed, a seasoned full-stack developer with a tech toolkit that's bound to impress. Picture this: HTML, CSS, Bootstrap, JavaScript, jQuery, JSON, Python, MySQL, PHP, Laravel, React.js, Node.js, and MongoDB all at your service.
 
