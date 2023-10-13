@@ -1,3 +1,4 @@
+![banner-profile](https://github.com/MohamedElfarfachi/MohamedElFarfachi/assets/144284875/d1159f6a-3a18-45eb-bc13-01f477975420)
 <h1 align="center">Hi 👋, I'm Mohamed EL Farfachi</h1>
 <h3 align="center">A passionate Web developer from Morocco</h3>
 
