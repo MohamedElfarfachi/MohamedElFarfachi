@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **elfarfachi.mohamed2002@gmail.com**
 
-- ⚡ Fun fact **I love Coffe**
+- ⚡ Fact **I love Coffe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
