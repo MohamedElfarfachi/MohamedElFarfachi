@@ -5,7 +5,6 @@
 What's my mission? To blend cutting-edge front-end finesse with robust back-end wizardry, creating a symphony of functionality and aesthetics. Imagine sleek user interfaces that don't just catch eyes, but hold attention, coupled with databases so dynamic they practically breathe.
 
 But I'm not just about the code—I'm about crafting digital adventures. My commitment to excellence is more than a promise; it's a guarantee. And staying ahead of the tech game? That's my hobby. Let's team up, turn your concepts into captivating realities, and make a digital dent that lasts.</p>
-<img align="rigt" alt="Coding" width="400" src="https://dribbble.com/shots/6220885-Dev-Guy-Animated">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelfarfachi&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelfarfachi" /> </p>
 
